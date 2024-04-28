@@ -48,7 +48,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 🧐 **Knowledge of:**<br>
 
-`Object-Oriented Programming`, `data structures and algorithms`, `Responsive web design`, `Python`, `Java`,`Springboot`, `Typescript`, `Angular`
+`Object-Oriented Programming`, `Data Structures and Algorithms`, `Responsive web design`, `Python`, `Java`,`Springboot`, `Typescript`, `Angular`
 
 
 🌍 **Deployment platforms:**<br>

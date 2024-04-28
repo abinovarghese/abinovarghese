@@ -17,7 +17,7 @@ https://simpleicons.org/
 <!-- [![HitCount](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh.svg)](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh) -->
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Abin O Varghese</strong></samp></h2>
-<h3 align='center'><strong><a href="https://abinovarghese.github.io/my_resume/" target="_blank">Portfolio🌐</a></strong></h3>
+<h3 align='center'><strong><a href="https://abinovarghese.github.io/" target="_blank">Portfolio🌐</a></strong></h3>
 <p align='center'>Software developer | Full-stack Developer | Java/Angular developer | Web developer</p>
 
 <p align='left'> 📫 As an unstoppable learner and tech enthusiast, I'm passionate about delving deeper into both technology and life. Working with cutting-edge tools and technologies is where I thrive, constantly seeking opportunities to expand my knowledge and skills</p>

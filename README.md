@@ -56,6 +56,19 @@ Android app for placing and customizing 3D furniture in real-world spaces using 
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+**[Portfolio](https://github.com/abinovarghese/abinovarghese.portfolio)**
+
+Personal portfolio site built with Angular — dark-themed, responsive, component-based architecture with sections for experience, skills, projects, and contact.
+
+`Angular` `TypeScript` `SCSS` `Standalone Components`
+
+</td>
+<td width="50%">
+</td>
+</tr>
 </table>
 
 ---

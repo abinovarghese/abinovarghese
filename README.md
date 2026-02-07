@@ -39,11 +39,11 @@ Ops          Prometheus  ·  Grafana  ·  ELK  ·  Jenkins  ·  GitHub Actions
 <tr>
 <td width="50%">
 
-**[Advanced RAG Pipeline](https://github.com/abinovarghese/AdvancedRAG)**
+**[Advanced RAG](https://github.com/abinovarghese/AdvancedRAG)**
 
-Multi-stage Retrieval-Augmented Generation pipeline comparing naive vs. advanced retrieval. Combines BM25 + vector search, redundancy filtering, long-context reordering, and BGE cross-encoder reranking.
+Full-stack RAG application with Next.js frontend, FastAPI backend, and multi-provider LLM support (Groq, OpenAI, Gemini, WatsonX). Features streaming chat, drag-and-drop document ingestion (9 formats), source citations, and dark/light theme.
 
-`Python` `LangChain` `ChromaDB` `OpenAI` `Sentence Transformers`
+`Next.js` `FastAPI` `LangChain` `ChromaDB` `TypeScript` `Python`
 
 </td>
 <td width="50%">

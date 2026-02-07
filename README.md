@@ -33,6 +33,33 @@ Ops          Prometheus  ·  Grafana  ·  ELK  ·  Jenkins  ·  GitHub Actions
 
 ---
 
+**Featured Projects**
+
+<table>
+<tr>
+<td width="50%">
+
+**[Advanced RAG Pipeline](https://github.com/abinovarghese/AdvancedRAG)**
+
+Multi-stage Retrieval-Augmented Generation pipeline comparing naive vs. advanced retrieval. Combines BM25 + vector search, redundancy filtering, long-context reordering, and BGE cross-encoder reranking.
+
+`Python` `LangChain` `ChromaDB` `OpenAI` `Sentence Transformers`
+
+</td>
+<td width="50%">
+
+**[Interior Design AR](https://github.com/abinovarghese/Interior-Design-AR)**
+
+Android app for placing and customizing 3D furniture in real-world spaces using Augmented Reality. Supports real-time color/material editing, object manipulation, and AR scene photo capture.
+
+`Java` `ARCore` `Sceneform` `Android` `3D Rendering`
+
+</td>
+</tr>
+</table>
+
+---
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-abinovarghese.github.io-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://abinovarghese.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abinovarghese-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abinovarghese)
 [![Email](https://img.shields.io/badge/Email-abinovarghese@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abinovarghese@gmail.com)

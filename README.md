@@ -39,11 +39,11 @@ Ops          Prometheus  ·  Grafana  ·  ELK  ·  Jenkins  ·  GitHub Actions
 <tr>
 <td width="50%">
 
-**[Advanced RAG](https://github.com/abinovarghese/AdvancedRAG)**
+**[RAG Forge](https://github.com/abinovarghese/AdvancedRAG)**
 
-Full-stack RAG application with Next.js frontend, FastAPI backend, and multi-provider LLM support (Groq, OpenAI, Gemini, WatsonX). Features streaming chat, drag-and-drop document ingestion (9 formats), source citations, and dark/light theme.
+Full-stack RAG application with multi-source data ingestion (files, URLs, external vector DBs), real-time WebSocket progress tracking, and multi-provider LLM support (Groq, OpenAI, Gemini, WatsonX). Features streaming chat, async document processing, external connector support, source citations, and dark/light theme.
 
-`Next.js` `FastAPI` `LangChain` `ChromaDB` `TypeScript` `Python`
+`Next.js` `FastAPI` `LangChain` `ChromaDB` `WebSocket` `TypeScript` `Python`
 
 </td>
 <td width="50%">

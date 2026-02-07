@@ -41,7 +41,7 @@ Ops          Prometheus  ·  Grafana  ·  ELK  ·  Jenkins  ·  GitHub Actions
 
 **[RAG Forge](https://github.com/abinovarghese/AdvancedRAG)**
 
-Full-stack RAG application with multi-source data ingestion (files, URLs, external vector DBs), real-time WebSocket progress tracking, and multi-provider LLM support (Groq, OpenAI, Gemini, WatsonX). Features streaming chat, async document processing, external connector support, source citations, and dark/light theme.
+Full-stack RAG app with multi-source ingestion (files, URLs, external vector DBs), real-time WebSocket progress tracking, streaming chat, and multi-provider LLM support (Groq, OpenAI, Gemini, WatsonX).
 
 `Next.js` `FastAPI` `LangChain` `ChromaDB` `WebSocket` `TypeScript` `Python`
 
@@ -50,7 +50,7 @@ Full-stack RAG application with multi-source data ingestion (files, URLs, extern
 
 **[Interior Design AR](https://github.com/abinovarghese/Interior-Design-AR)**
 
-Android app for placing and customizing 3D furniture in real-world spaces using Augmented Reality. Supports real-time color/material editing, object manipulation, and AR scene photo capture.
+Built in a 2-day hackathon — Android app for placing and customizing 3D furniture in real-world spaces using AR. Features real-time color/material editing, object manipulation, and scene capture.
 
 `Java` `ARCore` `Sceneform` `Android` `3D Rendering`
 

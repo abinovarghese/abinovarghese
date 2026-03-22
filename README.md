@@ -67,6 +67,13 @@ Personal portfolio site built with Angular — dark-themed, responsive, componen
 
 </td>
 <td width="50%">
+
+**[RecipeLister](https://github.com/abinovarghese/RecipeLister)**
+
+Voice-enabled recipe generator that extracts recipes from video links. Multi-provider LLM support (Anthropic, Gemini, OpenRouter, Groq), speech-to-text input, text-to-speech playback. Deployed as a live web app.
+
+`Flutter` `Dart` `LLM APIs` `Web Speech API` `Vercel`
+
 </td>
 </tr>
 </table>

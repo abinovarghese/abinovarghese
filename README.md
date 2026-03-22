@@ -48,11 +48,11 @@ Full-stack RAG app with multi-source ingestion (files, URLs, external vector DBs
 </td>
 <td width="50%">
 
-**[Interior Design AR](https://github.com/abinovarghese/Interior-Design-AR)**
+**[RecipeLister](https://github.com/abinovarghese/RecipeLister)**
 
-Built in a 2-day hackathon — Android app for placing and customizing 3D furniture in real-world spaces using AR. Features real-time color/material editing, object manipulation, and scene capture.
+Voice-enabled recipe generator that extracts recipes from video links. Multi-provider LLM support (Anthropic, Gemini, OpenRouter, Groq), speech-to-text input, text-to-speech playback. Deployed as a live web app.
 
-`Java` `ARCore` `Sceneform` `Android` `3D Rendering`
+`Flutter` `Dart` `LLM APIs` `Web Speech API` `Vercel`
 
 </td>
 </tr>
@@ -68,11 +68,11 @@ Personal portfolio site built with Angular — dark-themed, responsive, componen
 </td>
 <td width="50%">
 
-**[RecipeLister](https://github.com/abinovarghese/RecipeLister)**
+**[Interior Design AR](https://github.com/abinovarghese/Interior-Design-AR)**
 
-Voice-enabled recipe generator that extracts recipes from video links. Multi-provider LLM support (Anthropic, Gemini, OpenRouter, Groq), speech-to-text input, text-to-speech playback. Deployed as a live web app.
+Built in a 2-day hackathon — Android app for placing and customizing 3D furniture in real-world spaces using AR. Features real-time color/material editing, object manipulation, and scene capture.
 
-`Flutter` `Dart` `LLM APIs` `Web Speech API` `Vercel`
+`Java` `ARCore` `Sceneform` `Android` `3D Rendering`
 
 </td>
 </tr>
